@@ -47,6 +47,3 @@ while (cap.isOpened()):
 
 cap.release()
 cv2.destroyAllWindows()
-
-
-#the remaining parts are finding a better solution for changing the directions and writing the terminating factor for ending the algorithm
