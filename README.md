@@ -1,6 +1,7 @@
 # Line Detection for ROV
 The project is an implementation for an algorithm that detects and attempt to follow this red rope while it's hanged vertically.
-![Screenshot from MATE ROV Manual 2022](https://github.com/abdelmaksou/LineDetFol/blob/main/prob_img.png)
+![](https://github.com/abdelmaksou/LineDetFol/blob/main/prob_img.png)
+*Screenshot from MATE ROV Manual 2022*
 ## Part 1: Preprocessing
 Masking out the red line from the image after converting it to HSV.
 ## Part 2: Curve fitting with sliding windows technique
